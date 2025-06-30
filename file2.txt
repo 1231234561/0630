@@ -1,0 +1,1 @@
+minio/path/to/file2.txt
